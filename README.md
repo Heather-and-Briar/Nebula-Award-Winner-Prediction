@@ -10,7 +10,7 @@ Dataset used in this work contains information from several sources:
 - [**Goodreads**](https://www.goodreads.com/)
 - **Wikipedia**, **authors' personal websites** and other **open sources**.
 
-See more details in paragraph "Dataset Сharacteristic" of `Nebula Award Winner Prediction.html`.
+See more details in paragraph "Dataset Сharacteristic" of `Nebula.html`. The final datasets (`Nebula_dataset.csv` to train and `Nebula_predict.csv` to test) are located in `Code and Datasets` folder.
 
 
 
