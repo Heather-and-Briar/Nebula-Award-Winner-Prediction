@@ -1,4 +1,4 @@
-# Nebula-Award-Winner-Prediction
+# Nebula Award Winner Prediction
 
 Evaluating winning chances in Nebula Award (Novel category) using *Bayesian Learning*.
 
